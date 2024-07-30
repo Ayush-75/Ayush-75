@@ -1,9 +1,4 @@
-![Ayush Banner](https://raw.github.com/Ayush-75/Ayush-75/Master/OrangeMinimalist Corporate Personal Profile LinkedIn Banner (1).png)
-
-###
-
-<h1 align="center">Hi there 👋</h1>
-
+![Ayush Banner](https://raw.github.com/Ayush-75/Ayush-75/main/Orange.png)
 ###
 
 <br clear="both">
@@ -12,7 +7,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br>- 🔭 I’m working as Android Developer<br>- 📚 I'm currently learning compose and kmp<br>- ⚡ In my free time I go on walk</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
@@ -42,4 +37,8 @@
 
 <h3 align="left">🔥   Lets Connect :</h3>
 
-###
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayushshrivastava75/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
+</div>
