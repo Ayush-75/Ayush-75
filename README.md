@@ -8,19 +8,20 @@
 - ⚡ In my free time, I go for a walk.
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-    <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" />
-    <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
-    <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-</div>
+<h3 align="left">🛠 Languages and Tools</h3>
+<p align="left">
+<strong>Languages:</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /><br>
+<strong>Tools:</strong><br>
+<img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" />
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
+<img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+</p>
 
 <h3 align="left">🔥 Lets Connect:</h3>
 
