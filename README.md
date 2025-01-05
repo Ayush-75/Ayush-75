@@ -3,7 +3,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-- 🔭 I’m working as Android Developer<br>
+- 🔭 I’m working as an Android Developer.<br>
 - 📚 I'm currently learning compose and kmp<br>
 - ⚡ In my free time I go on walk
 </p>
